@@ -13,7 +13,6 @@ The goal of this project is to show how real embedded systems are designed using
 * Event-driven design (no blocking delays)
 * Two independent FSMs working together
 * Clear separation between input handling and application logic
-* Simple, readable C code (beginner-friendly)
 * Easily portable to real hardware (Arduino / STM32 / ESP32)
 
 ---
